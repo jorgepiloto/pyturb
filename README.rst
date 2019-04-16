@@ -1,49 +1,41 @@
-======
 Pyturb
-======
+------
 
-.. |travis| image:: https://travis-ci.org/jorgepiloto/pyturb.svg?branch=master
-    :target: https://travis-ci.org/jorgepiloto/pyturb
-
-.. |codecov| image:: https://codecov.io/github/jorgepiloto/pyturb/coverage.svg?branch=master
-    :target: https://codecov.io/github/jorgepiloto/pyturb
-
-.. |version| image:: https://img.shields.io/pypi/v/pyturb.svg
-    :target: https://pypi.org/project/pyturb
-
-.. |commits-since| image:: https://img.shields.io/github/commits-since/jorgepiloto/pyturb/v0.0.0.svg
-    :target: https://github.com/jorgepiloto/pyturb/compare/v0.0.0...master
-
-.. |wheel| image:: https://img.shields.io/pypi/wheel/pyturb.svg
-    :target: https://pypi.org/project/pyturb
-
-.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/pyturb.svg
-    :target: https://pypi.org/project/pyturb
-
-.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/pyturb.svg
-    :target: https://pypi.org/project/pyturb
-
-A Python package for aerospace propulsion computations
-
-* Free software: MIT license
-
-Installation
-============
-
-::
-
-    pip install pyturb
-
-Documentation
-=============
+|Made-with-python|
+|License|
+|Travis|
+|Documentation Status|
+|Open Source|
 
 
-https://pyturb.readthedocs.io/
+.. |Documentation Status| image:: https://readthedocs.org/projects/pyturb/badge/?version=latest
+   :target: https://pyturb.readthedocs.io/en/latest/?badge=latest
 
+.. |License| image:: https://img.shields.io/badge/License-MIT-blue.svg
+   :target: https://github.com/jorgepiloto/pyturb/blob/master/LICENSE
 
-Development
-===========
+.. |Made-with-python| image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
+   :target: https://www.python.org/
 
-To run the all tests run::
+.. |Travis| image:: https://travis-ci.org/jorgepiloto/pyturb.svg?branch=master
+   :target: https://travis-ci.org/jorgepiloto/pyturb
 
-    tox
+.. |Open Source| image:: https://badges.frapsoft.com/os/v2/open-source.png?v=103
+   :target: https://github.com/jorgepiloto/pyturb/
+
+This is the official repository  **pyturb**, a Python package for aerospace
+propulsion computations.
+
+How to install
+--------------
+
+Just download this repository in your local machine and install by:
+
+.. code-block:: bash
+
+   pip install pyturb
+
+For the moment
+--------------
+
+This package is under heavy development.
